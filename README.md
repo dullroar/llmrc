@@ -3,7 +3,7 @@ An "LLMRC" file, inspired by .vimrc and similar.
 
 ## Instructions
 
-Fork. Edit. Upload to any LLM convo where you have cross-session memory turned on and tell it
+Fork. Edit `LLMRC.md`. Upload it to any LLM convo where you have cross-session memory turned on and tell it
 to remember the contents as preferred interaction style.
 
 ## Why This Is Behavioral-First
