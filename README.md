@@ -27,3 +27,7 @@ to remember the contents as preferred interaction style.
 ## Why Markdown?
 
 Easy to understand and edit by the user, easy to parse and condense by the LLM.
+
+## Inspiration
+
+Inspired in part by Jerry Gamblin's [Pretty Good Prompts](https://github.com/jgamblin/PGP), but at a different part of the stack.
