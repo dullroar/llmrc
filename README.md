@@ -3,8 +3,7 @@ An "LLMRC" file, inspired by .vimrc and similar.
 
 ## Instructions
 
-Fork. Edit `LLMRC.md`. Upload it to any LLM convo where you have cross-session memory turned on and tell it
-to remember the contents as preferred interaction style.
+Fork. Edit `LLMRC.md` or better, use `Prompt LLMRC Discovery Interviewer.txt` in your favorite LLM to interview you and create the `LLMRC.md` file for you. Upload it to any LLM convo where you have cross-session memory turned on and tell it to remember the contents as preferred interaction style.
 
 ## Why This Is Behavioral-First
 
