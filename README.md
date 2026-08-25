@@ -5,6 +5,8 @@ An "LLMRC" file, inspired by .vimrc and similar.
 
 Fork. Edit `LLMRC.md` or better, use `Prompt LLMRC Discovery Interviewer.txt` in your favorite LLM to interview you and create the `LLMRC.md` file for you. Upload it to any LLM convo where you have cross-session memory turned on and tell it to remember the contents as preferred interaction style.
 
+The `LLMRC-lite.md` is a simpler version for coding agents and other focused agents that won't be doing general research and analysis.
+
 ## Why This Is Behavioral-First
 
 * **Portability Across Models** – Behavioral interaction contracts transfer cleanly between ChatGPT, Claude, Copilot, and future models; narrative persona layers often do not.
