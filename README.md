@@ -1,6 +1,6 @@
 # llmrc
 
-For the behavioral-layer design and portability decisions, see [DESIGN.md](DESIGN.md).
+For the behavioral-layer design and portability decisions, see [docs/design/](docs/design/README.md).
 An "LLMRC" file, inspired by .vimrc and similar.
 
 ## Instructions
@@ -12,7 +12,7 @@ The `LLMRC-lite.md` is a simpler version for coding agents and other focused age
 ## Design rationale
 
 The behavioral-first, Markdown, and layered-context decisions are recorded in
-[DESIGN.md](DESIGN.md).
+[docs/design/](docs/design/README.md).
 
 ## Inspiration
 
